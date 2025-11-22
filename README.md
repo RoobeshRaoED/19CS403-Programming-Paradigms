@@ -1,3 +1,3 @@
-# 19AI307_ODD(25-26)
+# 19CS403-Programming-Paradigms
 
 ODD_2025-26
