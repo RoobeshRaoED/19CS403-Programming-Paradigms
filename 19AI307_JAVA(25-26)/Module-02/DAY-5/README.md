@@ -4,6 +4,7 @@
 
 Create a class Utility with a static method square(int num) that returns the square of a number. Call the method without creating an object. 
 
+```
 import java.util.Scanner;
 class Utility {
 
@@ -16,6 +17,7 @@ class prog {
        // Main Method
     }
 }
+```
 
 ## AIM:
 
@@ -61,3 +63,4 @@ class prog {
 ## RESULT:
 
 Static square method executed successfully without creating an object.
+
